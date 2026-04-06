@@ -1,4 +1,4 @@
-package com.kimoteru.weathertest.ui.theme
+package com.kimoteru.weathertest.core.design_system.theme
 
 import androidx.compose.ui.graphics.Color
 

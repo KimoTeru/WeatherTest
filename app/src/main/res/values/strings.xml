@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Weather Test</string>
+
+    <!-- Weather Screen -->
+    <string name="weather_title">Weather</string>
+    <string name="history_content_description">History</string>
+    <string name="city_name_label">City Name</string>
+    <string name="search_content_description">Search</string>
+    <string name="search_placeholder">Search for a city to see weather</string>
+    <string name="humidity_label">Humidity</string>
+    <string name="wind_label">Wind</string>
+    <string name="wind_unit">%1$s m/s</string>
+    <string name="humidity_unit">%1$d%%</string>
+    <string name="temperature_unit">%1$d°C</string>
+
+    <!-- History Screen -->
+    <string name="history_title">Search History</string>
+    <string name="back_content_description">Back</string>
+    <string name="history_empty">History is empty</string>
 </resources>
